@@ -1,2 +1,2 @@
 # BookConnect
-Niit Project
+NIIT Web Project
